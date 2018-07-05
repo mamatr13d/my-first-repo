@@ -1,30 +1,11 @@
-# This is a large heading
+# Class week 4
 
-## This is a smaller heading
+### I'm to put where I live here, but don't wish others to know
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading 
 
-- This is
-- an unordered
-- list
+Three of my favourite books are:
+- *Ender's Saga* by Orson Scott Card
+- *The Gunslinger* by Stephen King
+- *Lamb: The Gospel according to Biff, Christs childhood pal* by Christopher Moore
 
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-vi README.md
